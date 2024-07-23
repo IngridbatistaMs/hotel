@@ -1,5 +1,22 @@
 # Hotel Service
 
+## Systema de gerenciamento de reserva de um hotel
+
+### Open API
+- localhost:8080/swagger-ui/index.html
+
+### Tecnologias Utilizadas
+
+- **Java** 17
+- **Spring Boot** 3.3.2
+- **Spring Data JPA**
+- **Hibernate**
+- **Gradle**
+- **H2 Database**
+- **PostgreSQL**
+
+### Diagrama de Classes
+
 ```mermaid
 classDiagram
     class Hotel {
